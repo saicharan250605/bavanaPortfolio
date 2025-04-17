@@ -6,7 +6,7 @@ body{
 .portfolio_intro{
     width:1480px;
     height:510px;
-    background-image:url(/portfolio_background.jpg);
+    background-image:url(portfolio_background.jpg);
     background-size: cover;
     background-position: center ;
     display: flex; 
